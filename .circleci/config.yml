@@ -11,4 +11,6 @@ jobs:
       - node/with-cache:
           steps:
             - run: npm install
+      - run: echo "start"
       - run: npm run test
+      - run: echo "end"
