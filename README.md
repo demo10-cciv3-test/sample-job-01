@@ -1,3 +1,4 @@
 # sample-job-01
-test
-test
+
+##メモ
+- CCIv3環境では、orbがうまく動かなかったです。
